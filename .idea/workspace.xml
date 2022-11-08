@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed7b2449-8007-47b1-be99-7da9624cd488" name="Changes" comment="some text">
-      <change afterPath="$PROJECT_DIR$/jshw2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jshw2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jshw3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jshw3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JavaScript"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +57,9 @@
       <option name="presentableId" value="Default" />
       <updated>1667415147746</updated>
       <workItem from="1667415148992" duration="5034000" />
-      <workItem from="1667493810142" duration="7946000" />
+      <workItem from="1667493810142" duration="9861000" />
+      <workItem from="1667639907772" duration="2928000" />
+      <workItem from="1667927793285" duration="9754000" />
     </task>
     <task id="LOCAL-00001" summary="some text">
       <created>1667421263577</created>
@@ -64,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667421263577</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some text">
+      <created>1667506277627</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667506277627</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
