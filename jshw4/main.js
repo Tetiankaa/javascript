@@ -65,7 +65,6 @@ for (const product of products) {
 }
 
 // за допомоги циклу вивести:
-
 //     - користувачів зі статусом true
 let users = [
     {name: 'vasya', age: 31, status: false},
