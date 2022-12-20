@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed7b2449-8007-47b1-be99-7da9624cd488" name="Changes" comment="some text / hw6">
-      <change afterPath="$PROJECT_DIR$/jshw8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jshw8/java.js" afterDir="false" />
+    <list default="true" id="ed7b2449-8007-47b1-be99-7da9624cd488" name="Changes" comment="some text / hw8">
+      <change afterPath="$PROJECT_DIR$/jshw9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jshw9/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jshw9/template1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,7 +61,9 @@
       <workItem from="1667493810142" duration="9861000" />
       <workItem from="1667639907772" duration="2928000" />
       <workItem from="1667927793285" duration="43891000" />
-      <workItem from="1668619185892" duration="76989000" />
+      <workItem from="1668619185892" duration="77303000" />
+      <workItem from="1671051322438" duration="24244000" />
+      <workItem from="1671554377718" duration="2103000" />
     </task>
     <task id="LOCAL-00001" summary="some text">
       <created>1667421263577</created>
@@ -111,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669164067464</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="some text / hw8">
+      <created>1670615400155</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670615400155</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +145,7 @@
     <MESSAGE value="some text / hw4" />
     <MESSAGE value="some text / hw5" />
     <MESSAGE value="some text / hw6" />
-    <option name="LAST_COMMIT_MESSAGE" value="some text / hw6" />
+    <MESSAGE value="some text / hw8" />
+    <option name="LAST_COMMIT_MESSAGE" value="some text / hw8" />
   </component>
 </project>
