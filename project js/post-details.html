@@ -2,35 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Post details</title>
+    <link rel="stylesheet" href="post.css">
 </head>
 <body>
 
-<script>
-
-    let url = new URL(location.href);
-    // console.log(url);
-    let postT = url.searchParams.get('post');
-    // console.log(userPost);
-    let parse = JSON.parse(postT);
-    // console.log(parse);
-
-
-
-    fetch(`https://jsonplaceholder.typicode.com/users/${parse.id}/posts`)
-        .then(respond => respond.json())
-        .then(valueE => {
-            console.log(valueE)
-            for (const item in valueE) {
-                const div = document.createElement('div');
-                div.innerText = `${item}: ${valueE[item]}`
-                document.body.appendChild(div);
-            }
-
-        })
-
-
-</script>
+<script src="post_details.js"></script>
 
 </body>
 </html>

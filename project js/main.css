@@ -1,0 +1,17 @@
+/*/ index.html - всі блоки з user - по 2 в рядок. кнопки/аосилвння розташувати під інформацією про user.*/
+
+.user {
+    justify-content: space-between;
+    display: inline-flex;
+    flex-direction: column;
+    width: 900px;
+    height: 50px;
+    font-size: 20px;
+    font-family: Cambria;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+body{
+    background: #f1f199;
+}
+

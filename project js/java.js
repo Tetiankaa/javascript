@@ -21,16 +21,16 @@
 //     post-details.html - блок з інфою про пост зверху. Коментарі - по 4 в ряд.
 //     Всі елементи котрі характеризують users, posts, comments візуалізувати, так, щоб було видно що це блоки (дати фон. марджини і тд)
 
-const getArray = document.createElement('div');
-document.body.append(getArray)
+
 
 fetch('https://jsonplaceholder.typicode.com/users')
 .then(respond => respond.json())
 .then(users => {
     for (const user of users) {
         let div = document.createElement('div')
-        div.innerText = `ID ${user.id} : ${user.name}  `
-        getArray.appendChild(div)
+        div.classList.add('user')
+        div.innerText = `ID ${user.id}: ${user.name}  `
+        document.body.appendChild(div)
         let a = document.createElement('a');
         a.innerText = 'more details'
         div.appendChild(a)

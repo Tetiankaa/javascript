@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed7b2449-8007-47b1-be99-7da9624cd488" name="Changes" comment="some text / hw10">
-      <change afterPath="$PROJECT_DIR$/project js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project js/java.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project js/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project js/user-details.html" afterDir="false" />
+    <list default="true" id="ed7b2449-8007-47b1-be99-7da9624cd488" name="Changes" comment="mini project">
+      <change afterPath="$PROJECT_DIR$/project js/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project js/post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project js/post_details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project js/user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project js/user_details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jshw10/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/jshw10/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project js/java.js" beforeDir="false" afterPath="$PROJECT_DIR$/project js/java.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project js/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/project js/post-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project js/user-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/project js/user-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,19 +41,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JavaScript&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript"
     ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +69,7 @@
       <workItem from="1667927793285" duration="43891000" />
       <workItem from="1668619185892" duration="77303000" />
       <workItem from="1671051322438" duration="24244000" />
-      <workItem from="1671554377718" duration="62363000" />
+      <workItem from="1671554377718" duration="80431000" />
     </task>
     <task id="LOCAL-00001" summary="some text">
       <created>1667421263577</created>
@@ -135,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671799485918</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="mini project">
+      <created>1671963868757</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671963868757</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +175,7 @@
     <MESSAGE value="some text / hw8" />
     <MESSAGE value="some text / hw9" />
     <MESSAGE value="some text / hw10" />
-    <option name="LAST_COMMIT_MESSAGE" value="some text / hw10" />
+    <MESSAGE value="mini project" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini project" />
   </component>
 </project>

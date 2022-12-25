@@ -1,0 +1,33 @@
+/*user-details.html - блок з інфою про user зверху сторінки. Кнопка нижчє, на 90% ширини сторінки, по центру.*/
+/*блоки з короткою іфною про post - в ряд по 5 .*/
+.info {
+    font-size: 25px;
+
+}
+.btn {
+    font-size: 25px;
+    color: forestgreen;
+    background:lightgray;
+
+}
+.divOne {
+    font-size: 25px;
+    color: #ba6f14;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    width: 320px;
+    height: 150px;
+    display: inline-flex;
+    background: #f1b29c;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+a {
+    font-size: 25px;
+}
+body {
+    background: #f1f199;
+}
