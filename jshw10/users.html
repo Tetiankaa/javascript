@@ -14,13 +14,13 @@
         .then(value => value.json())
         .then(value => {
             for (const item in value) {
-
                 const userDiv = document.createElement('div');
                 if (typeof value[item] !== 'object') {
-
                     userDiv.innerText = `${item} -- ${value[item]}`;
                 } else {
                     userDiv.innerText = `${item} :`
+
+
 
                     for (const key in value[item]) {
                         const userInnerDiv = document.createElement('div');
@@ -29,6 +29,9 @@
 
                         } else {
                             userInnerDiv.innerText = `${key} :`;
+
+
+
 
                             for (const element in value[item][key]) {
                                 const htmlDivElement = document.createElement('div');
