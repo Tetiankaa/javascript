@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed7b2449-8007-47b1-be99-7da9624cd488" name="Changes" comment="mini project">
-      <change afterPath="$PROJECT_DIR$/project js/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project js/post.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project js/post_details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project js/user.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project js/user_details.js" afterDir="false" />
+    <list default="true" id="ed7b2449-8007-47b1-be99-7da9624cd488" name="Changes" comment="mini projectt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project js/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project js/java.js" beforeDir="false" afterPath="$PROJECT_DIR$/project js/java.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project js/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/project js/post-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project js/user-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/project js/user-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project js/post.css" beforeDir="false" afterPath="$PROJECT_DIR$/project js/post.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project js/post_details.js" beforeDir="false" afterPath="$PROJECT_DIR$/project js/post_details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project js/user.css" beforeDir="false" afterPath="$PROJECT_DIR$/project js/user.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +63,7 @@
       <workItem from="1667927793285" duration="43891000" />
       <workItem from="1668619185892" duration="77303000" />
       <workItem from="1671051322438" duration="24244000" />
-      <workItem from="1671554377718" duration="80431000" />
+      <workItem from="1671554377718" duration="81775000" />
     </task>
     <task id="LOCAL-00001" summary="some text">
       <created>1667421263577</created>
@@ -148,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671963868757</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="mini projectt">
+      <created>1671985437348</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671985437348</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +177,7 @@
     <MESSAGE value="some text / hw9" />
     <MESSAGE value="some text / hw10" />
     <MESSAGE value="mini project" />
-    <option name="LAST_COMMIT_MESSAGE" value="mini project" />
+    <MESSAGE value="mini projectt" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini projectt" />
   </component>
 </project>

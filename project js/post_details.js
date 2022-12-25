@@ -4,11 +4,16 @@ let postT = url.searchParams.get('post');
 // console.log(postT);
 let parse = JSON.parse(postT);
 console.log(parse);
+
+let div3 = document.createElement('div');
+div3.classList.add('div3')
+document.body.append(div3)
+
 for (const item in parse) {
     const div = document.createElement('div');
     div.innerText = `${item}: ${parse[item]}`
     div.classList.add('two')
-    document.body.appendChild(div);
+    div3.append(div);
 }
 
 

@@ -1,20 +1,27 @@
 /*post-details.html - блок з інфою про пост зверху. Коментарі - по 4 в ряд.*/
 /* Всі елементи котрі характеризують users, posts, comments візуалізувати, так, щоб було видно що це блоки (дати фон. марджини і тд)*/
 .two {
-    /*background: lightsalmon;*/
     font-size: 20px;
-    padding: 20px;
-    width: 1670px;
-    /*border: 2px solid black;*/
     font-weight: bolder;
+    padding: 10px;
+}
+.div3 {
+    background: lightsalmon;
+    border-radius: 20px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 1000px;
+    margin: 10px;
+
 }
 
 .div2 {
     background: lightsalmon;
     font-size: 20px;
     margin: 10px;
-    padding: 10px;
+    padding: 20px;
     border: 2px solid black;
+    border-radius: 20px;
     display: inline-flex;
     align-content: center;
     width: 300px;
